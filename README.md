@@ -7,7 +7,7 @@
 ### 程式一、擷取複製文字並翻譯(copied_text_translation.py)
 1. 執行檔案
 2. 將欲翻譯的文字反白並複製(ctrl+c)
-    ![GITHUB](https://imgur.com/Y0nqMnc)
+    ![GITHUB](https://imgur.com/a/jZr4hGw)
 3. 彈跳視窗顯示翻譯內容
 4. (關閉視窗後)系統自動儲存紀錄
 5. 重複2.~4.
