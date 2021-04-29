@@ -18,7 +18,11 @@
 1. 執行檔案
 2. 如果尚未建立今日單字表，系統將自動生成
 3. 開始測驗(分為模式一、模式二，詳細規則請見方法及流程圖)
-模式一                        模式二
+
+|模式一|模式二|
+|-----|------|
+|![image](https://github.com/Sunnie0101/Click-translation/blob/main/img/words_exam_system_mode1.jpg)|![image(https://github.com/Sunnie0101/Click-translation/blob/main/img/words_exam_system_mode2.jpg)|
+
 4. 若想暫時測驗，結束程式即可 (想繼續背誦則再次執行程式)
 5. 當所有單字背誦完畢，則程式結束。
 
