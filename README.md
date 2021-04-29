@@ -21,7 +21,7 @@
 
 |模式一|模式二|
 |-----|------|
-|![image](https://github.com/Sunnie0101/Click-translation/blob/main/img/words_exam_system_mode1.jpg)|![image(https://github.com/Sunnie0101/Click-translation/blob/main/img/words_exam_system_mode2.jpg)|
+|![image](https://github.com/Sunnie0101/Click-translation/blob/main/img/words_exam_system_mode1.jpg)|![image](https://github.com/Sunnie0101/Click-translation/blob/main/img/words_exam_system_mode2.jpg)|
 
 4. 若想暫時測驗，結束程式即可 (想繼續背誦則再次執行程式)
 5. 當所有單字背誦完畢，則程式結束。
