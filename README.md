@@ -84,10 +84,25 @@
 1. 擷取複製文字並翻譯(copied_text_translation.py)
 使用函式庫：
 
+|引入函式庫|	功能	|安裝方式|
+|---|---|---|
+|`import requests`|建立各種 HTTP 請求，從網頁伺服器上取得資料。|`pip3 install requests` |
+|`import time`|時間函式庫	|(python內建)|
+|`import pyperclip`|剪貼板(clipboard)功能|`pip install pyperclip`|
+|`from tkinter import * `|GUI介面	|`pip install tkinter`|
+|`import openpyxl`|Excel檔案讀寫|	`pip install openpyxl`(anaconda內建)|
+
 程式流程圖：
 ![image](https://github.com/Sunnie0101/Click-translation/blob/main/img/copied_text_translation_flowchart.jpg)
 2. 建構今日單字背誦表，以及測驗系統(words_exam_system.py)
 使用函式庫：
+
+|引入函式庫|	功能	|安裝方式|
+|-------|-------|-------|
+|`import openpyxl`|	Excel檔案讀寫|`pip insrall openpyxl`(anaconda內建)|
+|`import datetime`|	日期時間函式庫	|(python內建)|
+|`import random`|	剪貼板(clipboard)功能|`pip install random`(anaconda內建)|
+|`import os`|	操作文件、目錄、系统…	|(python內建)|
 
 程式流程圖：
 ![image](https://github.com/Sunnie0101/Click-translation/blob/main/img/words_exam_system_flowchart.jpg)
